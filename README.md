@@ -111,7 +111,7 @@ Total time spent: **3-4 hours**
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/softsell.git
+git clone https://github.com/Sujaltalreja29/SoftSell.git
 cd softsell
 ```
 

@@ -183,7 +183,7 @@ export default function HeroSection() {
           <motion.div 
             className="mt-16 lg:mt-0"
             variants={imageVariants}
-            animate={floatingAnimation}
+            animate={floatingAnimation as any}
           >
             <div className={`rounded-2xl shadow-2xl overflow-hidden max-w-lg mx-auto 
               ${theme === 'dark' 
